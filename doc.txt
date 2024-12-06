@@ -1,1 +1,8 @@
 
+
+Game controls
+Up - rotate
+Left - move Left
+right - move right
+down - move down (moves faster than usual)
+
